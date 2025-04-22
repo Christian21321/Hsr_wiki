@@ -1,9 +1,11 @@
+import java.util.List;
+
 public class Equipamiento {
 
 	private int id;
-	private string nombre;
+	private String nombre;
 	private int rareza;
-	private string tipo;
+	private String tipo;
 	private List<Personaje> personajes;
 
 }
