@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Wiki{
     public void subirNivelPersonaje(Personaje personaje, int nivelesASubir) {
         if (nivelesASubir > 0) {
