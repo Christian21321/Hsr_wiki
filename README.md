@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue?logo=java&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/Tested%20with-JUnit5-green?logo=testing-library&logoColor=white)
-![Gitflow](https://img.shields.io/badge/Workflow-Gitflow-important)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
